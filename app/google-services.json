@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "38251692365",
+    "firebase_url": "https://friendlychatapp-b92d3.firebaseio.com",
+    "project_id": "friendlychatapp-b92d3",
+    "storage_bucket": "friendlychatapp-b92d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38251692365:android:9f15b85071547137",
+        "android_client_info": {
+          "package_name": "com.example.okcomputers.firebaseudemycourse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38251692365-ahafg9asus8i7fsn7la73me9svgdm8ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDRHL7YcGQnRQOM1oUv4hAuD0jwOK9p3I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
